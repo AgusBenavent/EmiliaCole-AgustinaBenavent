@@ -1,0 +1,28 @@
+body{
+
+    background-image: url(../IMG/about.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+background-position: 500px;
+
+font-family: 'Open Sans', sans-serif;
+font-family: 'Ruwudu', serif;
+
+
+
+
+}
+.Inicio{
+   padding: 50px;
+
+}
+.Inicio2{
+    padding: 50px;
+}
+h1{
+    padding: 50px;
+}
+.parrafo{
+    color:#2C9A92;
+    padding: 50px;
+}
